@@ -1,3 +1,49 @@
+# Wyreflow Landing Page (React + Tailwind CSS)
+
+A pixel-perfect clone of the Wyreflow landing page built with React and Tailwind CSS 4.1.
+
+## Features
+
+- Responsive, modern UI
+- Hero section, industry grid, video grid, and more
+- Fully styled with Tailwind CSS
+- Easy to customize and extend
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/chouhanrahul1999/wyreflow-landing-page.git
+   cd wyreflow-landing-page
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser:**
+
+   Visit [http://localhost:5173](http://localhost:5173) to view the app.
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## License
+
+This project is for educational/demo purposes only.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
